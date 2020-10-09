@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600987990 source:c:\users\fernanda\videos\proyectolineas\lineas1\main.cpp
+	<C:\GLUT\include\Gl\glut.h>
+	"windows.h"
+	<stdlib.h>
+
+1600972538 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 c:\glut\include\gl\gl.h
+
+893401200 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
